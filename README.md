@@ -2,7 +2,7 @@
 ### Website for generating colour palettes 
 
 ## Contributing Guidelines
-__NEVER__ contribute to a Branch without the suffix of __-Dev__ unless given explicit approval and passing some sort of unit tests
+__NEVER__ contribute to a Branch without the suffix of __-dev__ unless given explicit approval and passing some sort of unit tests
 Obviously the usual applies,
 1. Fork the repo
 2. Match your branches
