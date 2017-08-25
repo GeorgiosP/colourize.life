@@ -10,6 +10,8 @@ Obviously the usual applies,
 4. Commit and push
 5. Pull request to the branch on this repo
 
+More indepth Contributing guidelines can be found @CONTRIBUTING.md
+
 ### License 
 ---- 
 Apache-2.0 License
