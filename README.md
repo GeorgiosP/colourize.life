@@ -10,7 +10,7 @@ Obviously the usual applies,
 4. Commit and push
 5. Pull request to the branch on this repo
 
-More indepth Contributing guidelines can be found @CONTRIBUTING.md
+More indepth Contributing guidelines can be found @[CONTRIBUTING.md](https://github.com/GeorgiosP/colourize.life/blob/master/CONTRIBUTING.md)
 
 ### License 
 ---- 
